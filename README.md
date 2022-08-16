@@ -1,5 +1,6 @@
 # Train-Announcement-System
-It is an automated software which will generate the Railway Station Announcement by maintaining a database of required information in an excel sheet.
+ - It is an automated software which will generate the Railway Station Announcement by maintaining a database of required information in an excel sheet.
+#
 ![R](https://user-images.githubusercontent.com/109011314/184954229-9eb69dff-6f1f-4a5c-bb37-117b15edfd33.png)
 # Announcement Languages
 - Hindi
